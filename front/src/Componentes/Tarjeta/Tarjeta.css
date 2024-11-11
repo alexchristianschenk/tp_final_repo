@@ -1,0 +1,10 @@
+.contenedor-tarjeta{
+    width: 95vw;
+    margin-top: 20px;
+}
+.parrafo-tarjeta{
+    color: azure;
+    display: flex;
+    text-align: center;
+    background-color: black;
+}
