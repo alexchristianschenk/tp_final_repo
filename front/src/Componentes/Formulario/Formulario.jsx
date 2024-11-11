@@ -78,7 +78,7 @@ function Formulario() {
           />
         </div>
         <div className="inputGroup">
-          <label className="label">Horario:</label>
+          <label className="label">Horario000:</label>
           <input
             type="time"
             name="horario"
